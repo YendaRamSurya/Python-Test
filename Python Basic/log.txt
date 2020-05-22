@@ -1,0 +1,10 @@
+2020-04-30 12:00:18,309 - DEBUG -Start debug
+2020-04-30 12:00:18,309 - DEBUG -this is n 4 and this fac 4
+2020-04-30 12:00:18,309 - DEBUG -this is n 3 and this fac 12
+2020-04-30 12:00:18,309 - DEBUG -this is n 2 and this fac 24
+2020-04-30 12:00:18,309 - DEBUG -this is n 1 and this fac 24
+2020-05-01 09:56:30,723 - DEBUG -Start debug
+2020-05-01 09:56:30,724 - DEBUG -this is n 4 and this fac 4
+2020-05-01 09:56:30,724 - DEBUG -this is n 3 and this fac 12
+2020-05-01 09:56:30,724 - DEBUG -this is n 2 and this fac 24
+2020-05-01 09:56:30,724 - DEBUG -this is n 1 and this fac 24
