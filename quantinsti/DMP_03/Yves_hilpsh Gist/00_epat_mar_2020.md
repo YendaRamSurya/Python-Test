@@ -88,7 +88,7 @@ To install **Docker** see https://docs.docker.com/install/.
 
 To run a Ubuntu-based Docker container, execute on the shell (Linux/Mac) the following: 
 
-    docker run -ti -p 9999:99999 -h epat -v $(pwd):/root/live ubuntu:latest /bin/bash
+      docker run -ti -p 9999:99999 -h epat -v $(pwd):/root/live ubuntu:latest /bin/bash
 
 Make sure to adjust the folder to be mounted accordingly.
 
